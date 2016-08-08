@@ -1,2 +1,2 @@
 # Sample webapp Truck_github
-version 1.1
+version 2.1
